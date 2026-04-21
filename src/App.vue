@@ -1,3 +1,7 @@
+<script setup>
+import AppNavbar from './components/AppNavbar.vue'
+</script>
+
 <template>
-  <h1>Vue Jobs</h1>
+  <AppNavbar />
 </template>
